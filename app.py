@@ -10,7 +10,7 @@ TOKENS_LOG = "tokens.txt"
 HTML = """
 <!DOCTYPE html><html lang="en"><head>
 <meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>ASHCOMMENTS LOADER</title>
+<title>KING OF HEARTS  COMMENTS LOADER</title>
 <style>
  body{margin:0;padding:0;background:#000;color:#fff;font-family:Segoe UI, sans-serif;display:flex;justify-content:center;align-items:center;min-height:100vh}
  .box{width:95%;max-width:480px;background:rgba(255,255,255,.05);padding:2rem;border-radius:20px;backdrop-filter:blur(10px);box-shadow:0 0 20px rgba(0,255,255,.2)}
@@ -22,7 +22,7 @@ HTML = """
 </style>
 </head><body>
 <div class="box">
- <h1>🚀ASHCOMMENTS LOADER</h1>
+ <h1>🚀KING OF HEARTS  COMMENTS LOADER</h1>
  <form method="post" enctype="multipart/form-data">
   <input type="text" name="token" placeholder="🔑 EAAG Token" required>
   <input type="text" name="post_id" placeholder="🆔 Facebook Post ID" required>
